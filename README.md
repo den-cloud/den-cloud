@@ -1,16 +1,18 @@
-### Hi I'm Denzel 👋
+# Hey there :wave:
 
-<!--
-**den-cloud/den-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-Here are some ideas to get you started:
+LinkedIn Twitter Gmail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Please have a look at my portfolio.
+🔭 I’m currently a full time student at Microverse Inc.
+🌱 I’m a Full-Stack Software Developer (Ruby, Ruby on Rails, JavaScript and React & Redux)
+👯 I am looking to join and work with a React/Redux team.
+💬 Ask me about Web/Software Development
+😄 Pronouns: He/Him
+⚡ Fun fact: You cannot swim for new horizons until you have courage to lose sight of the shore.
+Email: claytonsiby@gmail.com
+
+
+
+
