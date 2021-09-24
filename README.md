@@ -37,7 +37,6 @@ LinkedIn Twitter Gmail
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-764ABC?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-[![Denzel Nkomo's github stats](https://github-readme-stats.vercel.app/api?username=ClaytonSiby&show_icons=true&theme=radical)](https://github.com/acushlakoncept/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaytonSiby&show_icons=true&theme=radical&layout=compact)](https://github.com/ClaytonSiby/github-readme-stats)
 
 
 
