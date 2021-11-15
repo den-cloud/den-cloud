@@ -4,21 +4,21 @@
 
 LinkedIn Twitter Gmail
 
-- 💬 Please have a look at my portfolio.
+ 💬 Please have a look at my portfolio.
 
-- 🔭 I’m currently a full time student at Microverse Inc.
+ 🔭 I’m currently a full time student at Microverse Inc.
 
--🌱 I’m a Full-Stack Software Developer (Ruby, Ruby on Rails, JavaScript and React & Redux)
+🌱 I’m a Full-Stack Software Developer (Ruby, Ruby on Rails, JavaScript and React & Redux)
 
--👯 I am looking to join and work with a React/Redux team.
+ 👯 I am looking to join and work with a React/Redux team.
 
--💬 Ask me about Web/Software Development
+ 💬 Ask me about Web/Software Development
 
--😄 Pronouns: He/Him
+ 😄 Pronouns: He/Him
 
--⚡ Fun fact: Programming is like sex: One mistake and you have to support it for the rest of your life.
+ ⚡ Fun fact: Programming is like sex: One mistake and you have to support it for the rest of your life.
 
-- Email: djpants90@yahooh.com
+ Email: djpants90@yahooh.com
 
 <h1>My Specialties include:</h1>
 
